@@ -1,0 +1,38 @@
+body {
+	padding-top: 40px;
+	/* 40px to make the container go all the way to the bottom of the topbar */
+}
+
+.container > .content {
+	padding: 20px;
+}
+
+.tweet {
+	background-color: #33ddff;
+	padding: 10px 10px 1px 10px;
+	margin-bottom: 10px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+}
+
+.tweet .meta {
+	font-size: 0.8em;
+	font-weight: bold;
+	color: white;
+	border-top: 1px dotted white;
+}
+
+.tweet .meta a:link, .tweet .meta a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+.tweet .meta a:hover {
+	color: white;
+	text-decoration: underline;	
+}
+
+.tweet-xl {
+	font-size: 4em;
+	line-height: 1.2em;
+}

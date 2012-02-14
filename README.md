@@ -21,6 +21,8 @@ Edit the file (src/ciid/config.clj) and populate the `username` and `password` f
 
 TBC...
 
+For the moment, please have a look at the [workshop notes](http://github.com/postspectacular/ciid-tweeq/wiki/Workshop-notes)...
+
 ## License
 
 Copyright (C) 2012 Karsten Schmidt
